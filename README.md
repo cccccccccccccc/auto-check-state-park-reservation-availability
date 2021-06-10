@@ -11,3 +11,5 @@ launchctl stop com.chen.statepark
 launchctl list | grep com.chen
 launchctl start com.chen.statepark
 ```
+
+Inspired by https://github.com/peckjon/gocamp
